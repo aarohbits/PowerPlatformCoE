@@ -4,7 +4,7 @@ Step by Step with screenshots on Power Platform CoE
 # Why may this GitHub Repo as articles from Microsoft, Blogs and videos are already published? 
 
 
-1.	**Lack of Comprehensive Documentation:** One notable challenge is the absence of a single document that comprehensively covers all aspects of the subject matter. This gap in documentation can pose difficulties for individuals seeking a holistic understanding of the topic, as they may need to navigate through multiple sources to gather relevant information.
+1.	**Lack of Comprehensive Documentation:** One notable challenge is the absence of a **single document** that comprehensively covers all aspects of the subject matter. This gap in documentation can pose difficulties for individuals seeking a holistic understanding of the topic, as they may need to navigate through multiple sources to gather relevant information.
 
 2.	**Outdated Content Across Various Formats:** Another concern arises from the presence of outdated content in various formats such as videos and blogs. The rapid evolution of information can render previously valid content obsolete, making it essential for learners to critically assess the timeliness and relevance of the materials they encounter.
 
