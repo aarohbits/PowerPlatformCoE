@@ -16,7 +16,7 @@ Step by Step with screenshots on Power Platform CoE
 
 *** 
 
-![][20231216 - Power Platform - Centre of Excellence, Audit Logs and Power BI Dashboard](<01PowerPlatformCoEAuditComponentPowerBI/20231216 - Power Platform - Centre of Excellence, Audit Logs and Power BI Dashboard.pdf>)
+![20231216 - Power Platform - Centre of Excellence, Audit Logs and Power BI Dashboard](<01PowerPlatformCoEAuditComponentPowerBI/20231216 - Power Platform - Centre of Excellence, Audit Logs and Power BI Dashboard.pdf>)
 
 
 
