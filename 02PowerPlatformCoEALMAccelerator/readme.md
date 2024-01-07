@@ -1,6 +1,6 @@
 # PowerPlatformCoE 
 Step by Step with screenshots on Power Platform CoE  ALM Accelerator. 
-It comes with **Single Doucment**  
+It comes with **Single Document**  
 
 ## Who should use the ALM Accelerator?
 
