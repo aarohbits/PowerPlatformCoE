@@ -1,8 +1,8 @@
-#PowerPlatformCoE 
+# PowerPlatformCoE 
 Step by Step with screenshots on Power Platform CoE  ALM Accelerator. 
 It comes with **Single Doucment**  
 
-##Who should use the ALM Accelerator?
+## Who should use the ALM Accelerator?
 
 The ALM Accelerator is targeted at Power Platform **makers** and **maker teams:**
 
